@@ -1,0 +1,22 @@
+{
+  "name": "vite-demo",
+  "version": "1.0.0",
+  "description": "vite-demo",
+  "main": "",
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-dom": "^3.3.4",
+    "@vue/compiler-sfc": "^3.3.4",
+    "es-module-lexer": "^1.2.1",
+    "magic-string": "^0.30.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
